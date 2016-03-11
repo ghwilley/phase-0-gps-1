@@ -1,6 +1,10 @@
 #Markdown Skills
 
+
 *This is italic*
+
+**This is bold**
+
 
 ```Code block```
 
